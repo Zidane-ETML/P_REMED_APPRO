@@ -12,4 +12,11 @@
     - Si ce sujet vous convient: faites un contrat avec (de remédiation ou d'approfondissement)
     - S'il ne vous convient pas, proposez-moi un sujet et rédigez un autre contrat
     - Dans un cas comme dans l'autre, vous devez avoir un contrat signé avant la pause de 14h45
-    
+
+- Journal de travail
+    - Nous avons trouver un projet pour la remdédiation
+    - J'ai fait le contrat de remédiation et l'a fait validé et signer
+    - Vous m'avez expliqué le projet plus en détail 
+    - J'ai commencer à rédiger un cahier des charges et vous m'aviez dit qu'il ne fallait pas faire ça
+    - J'ai commencer à revoir la theorie du MCD/MLD, normalisation
+    - J'ai installer DrawIO et commencer à me familiariser avec
