@@ -20,3 +20,12 @@
     - J'ai commencer à rédiger un cahier des charges et vous m'aviez dit qu'il ne fallait pas faire ça
     - J'ai commencer à revoir la theorie du MCD/MLD, normalisation
     - J'ai installer DrawIO et commencer à me familiariser avec
+
+## 7.2
+
+- Feedback XCL
+    - Indiquez les durées des tâches dans votre journal de travail svp
+    - J'ai uploadé les fichers de données en format Excel dans le repo. A analyser
+
+- Journal de travail
+    - ...
