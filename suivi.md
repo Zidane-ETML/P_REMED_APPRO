@@ -47,3 +47,10 @@
     - Le MCD semble bon à première vue, il faut que je le regarde de plus près
     - Mais vous pouvez déjà commencer à faire le document final demandé
 
+- Journal de travail
+    - Commencement du MLD (30min)
+    - MCD validé par mr.Carrel (10min)
+    - Revoir la théorie "passage MCD -> MLD" (30min)
+    - Mettre des flèches (10min)
+    - Ajout de foreign_key (20min)
+    - ajout de 2 association "jouer" -> "jouer à domicile" , "jouer à l'exterieur" (10min)
