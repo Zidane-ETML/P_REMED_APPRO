@@ -39,3 +39,11 @@
     - Ajout des cardinalitées
     - Ajout Associations
     - MCD terminé à faire valider
+
+## 28.2
+
+- Feedback XCL
+    - Journal de travail: faites apparaître la durée des tâches
+    - Le MCD semble bon à première vue, il faut que je le regarde de plus près
+    - Mais vous pouvez déjà commencer à faire le document final demandé
+
