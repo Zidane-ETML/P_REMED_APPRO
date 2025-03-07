@@ -54,3 +54,19 @@
     - Mettre des flèches (10min)
     - Ajout de foreign_key (20min)
     - ajout de 2 association "jouer" -> "jouer à domicile" , "jouer à l'exterieur" (10min)
+
+
+## 7.3
+
+- Feedback XCL
+    - Temps de travail: 3périodes = 135 min, temps dans le journal = 110 min. La différence est un peu trop grande
+    - J'avais demandé de faire un bilan des objectifs, il n'a pas été fait
+    - Le MLD devrait être de préférence en anglais
+    - Demande spécifique de ma part: appliquez la convention très largement répandue suivante: 
+        - La clé primaire de toutes les tables est un champ `id` (numérique autoincrémental)
+        - Les clés étrangères se terminent par `_id`
+    - Exemple d'utilisation SQL : `select * from user inner join group on user.group_id = group.id`
+    - Cette convention est attendue par bon nombre de framework. Elle n'est donc pas contraire aux conventions ETML, qui autorisent de suivre une convention propre à une technologie
+    - Nommage de commits: il est nécessaire maintenant d'améliorer ce point car il est insuffisant à ce stade
+
+- Journal de travail
