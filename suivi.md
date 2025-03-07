@@ -1,0 +1,72 @@
+# Suivi des activités
+
+## 31.1
+
+- Feedback XCL
+    - J'ai besoin de savoir si vous avez eu NA dans un module de pratique et si oui lequel
+    - Je choisis un sujet par défaut: le démineur (voir sur Marketplace), dans lequel les objectifs minimaux à atteindre sont:
+        1. La grille de 10x10 s'affiche et je peux déplacer le curseur de case en case sans sortir avec les flèches du clavier
+        2. Il y a 5 mines cachées. Quand je fais ENTER dans une case, elle devient verte s'il n'y a pas de mine à cet endroit, rouge dans le cas contraire
+        3. L'utilisateur peut choisir le nombre de mines cachées. Le programme les place aléatoirement, en assurant que deux mines ne se trouvent pas dans la même case
+        4. L'utilisateur peut choisir la taille de la grille 
+    - Si ce sujet vous convient: faites un contrat avec (de remédiation ou d'approfondissement)
+    - S'il ne vous convient pas, proposez-moi un sujet et rédigez un autre contrat
+    - Dans un cas comme dans l'autre, vous devez avoir un contrat signé avant la pause de 14h45
+    
+- Journal de travail
+    - Nous avons trouver un projet pour la remdédiation
+    - J'ai fait le contrat de remédiation et l'a fait validé et signer
+    - Vous m'avez expliqué le projet plus en détail 
+    - J'ai commencer à rédiger un cahier des charges et vous m'aviez dit qu'il ne fallait pas faire ça
+    - J'ai commencer à revoir la theorie du MCD/MLD, normalisation
+    - J'ai installer DrawIO et commencer à me familiariser avec
+
+## 7.2
+
+- Feedback XCL
+    - Indiquez les durées des tâches dans votre journal de travail svp
+    - J'ai uploadé les fichers de données en format Excel dans le repo. A analyser
+
+- Journal de travail
+    - ...
+
+## 14.2
+
+
+
+- Journal de travail
+    - On a eu un problème avec Github on a passé 20 min à le résoudre
+    - Ajout des cardinalitées
+    - Ajout Associations
+    - MCD terminé à faire valider
+
+## 28.2
+
+- Feedback XCL
+    - Journal de travail: faites apparaître la durée des tâches
+    - Le MCD semble bon à première vue, il faut que je le regarde de plus près
+    - Mais vous pouvez déjà commencer à faire le document final demandé
+
+- Journal de travail
+    - Commencement du MLD (30min)
+    - MCD validé par mr.Carrel (10min)
+    - Revoir la théorie "passage MCD -> MLD" (30min)
+    - Mettre des flèches (10min)
+    - Ajout de foreign_key (20min)
+    - ajout de 2 association "jouer" -> "jouer à domicile" , "jouer à l'exterieur" (10min)
+
+
+## 7.3
+
+- Feedback XCL
+    - Temps de travail: 3périodes = 135 min, temps dans le journal = 110 min. La différence est un peu trop grande
+    - J'avais demandé de faire un bilan des objectifs, il n'a pas été fait
+    - Le MLD devrait être de préférence en anglais
+    - Demande spécifique de ma part: appliquez la convention très largement répandue suivante: 
+        - La clé primaire de toutes les tables est un champ `id` (numérique autoincrémental)
+        - Les clés étrangères se terminent par `_id`
+    - Exemple d'utilisation SQL : `select * from user inner join group on user.group_id = group.id`
+    - Cette convention est attendue par bon nombre de framework. Elle n'est donc pas contraire aux conventions ETML, qui autorisent de suivre une convention propre à une technologie
+    - Nommage de commits: il est nécessaire maintenant d'améliorer ce point car il est insuffisant à ce stade
+
+- Journal de travail
