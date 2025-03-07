@@ -70,3 +70,10 @@
     - Nommage de commits: il est nécessaire maintenant d'améliorer ce point car il est insuffisant à ce stade
 
 - Journal de travail
+    - Explication de mr Carrel(10min)
+    - Faire le bilan des objectifs(10min)
+    - commit avec le bon nommage(5min)
+    - Changement de convention pour les clé étrangères et primaires(15min)
+    - Traduire toutes les tables et attributs en anglais(30min)
+    - Revu avec mr Carrel et validation/finalisation du MLD(15min)
+    - Commencement de la présentation(50min)
