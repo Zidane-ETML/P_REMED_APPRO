@@ -77,3 +77,12 @@
     - Traduire toutes les tables et attributs en anglais(30min)
     - Revu avec mr Carrel et validation/finalisation du MLD(15min)
     - Commencement de la présentation(50min)
+
+## 14.3
+
+- Feedback XCL
+    - Le MCD s'adresse à quelqu'un de non technique. Il vous faut éviter les termes informatiques et utiliser un langage le plus naturel possible. C'est le MLD qui montre comment les informations du MCD sont traduites en termes techniques. Formulez vos explications comme si vous vous adressiez à un ami qui est arbitre.
+    - Journal et status OK
+
+- Journal de travail
+    -
