@@ -85,4 +85,8 @@
     - Journal et status OK
 
 - Journal de travail
-    -
+    - prise en compte du Feedback(5min)
+    - Dernière consignes de mr Carrel(10min)
+    - Ajout de la partie explication du MLD en anglais(20min)
+    - Changement des explications du MCD(45min)
+    - Ajout du script de base de données(15min)
