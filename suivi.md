@@ -90,3 +90,13 @@
     - Ajout de la partie explication du MLD en anglais(20min)
     - Changement des explications du MCD(45min)
     - Ajout du script de base de données(15min)
+ 
+# Conclusion
+
+Le résultat est plutôt bon. Les points suivants de votre document devraient être amélioré pour qu'ils soit parfait.
+
+- Commencer par une explication du problème que l'application veut résoudre. Il s'agit de ce qu'on appelle le "contexte métier".
+- Il reste encore quelques erreurs dans le MLD, ce qui fait que le script généré est incorrect. Typiquement, les champs `homeTeam` et `awayTeam` ne sont pas les noms des équipes, mais des références sur la table `teams`. Gardez ça à l'esprit lorsque vous aborderez le sujet des clés étrangères dans un cours de base de données.
+- Ce document est destiné à être intégré dans un rapport de projet. Il faudrait donc mentionner le fait que le script présenté a été généré par une IA sur la base des descriptions des champs du MLD.
+
+Votre projet est validé. Rappelez-vous surtout que le MCD s'adresse plutôt aux personnes du métier de l'application et le MLD aux personnes de l'informatique. C'est pour ça que l'un est rédigé en français et l'autre anglais. Les explications que vous avez rajoutées sont bonnes, faites la même chose à l'avenir lorsque vous aurez des projets dans lesquels il vous faut documenter un modèle de données.
