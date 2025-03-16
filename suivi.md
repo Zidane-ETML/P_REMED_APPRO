@@ -93,10 +93,12 @@
  
 # Conclusion
 
-Le résultat est plutôt bon. Les points suivants de votre document devraient être amélioré pour qu'ils soit parfait.
+Le résultat est plutôt bon. Les points suivants de votre document devraient être amélioré pour qu'il soit parfait.
 
 - Commencer par une explication du problème que l'application veut résoudre. Il s'agit de ce qu'on appelle le "contexte métier".
 - Il reste encore quelques erreurs dans le MLD, ce qui fait que le script généré est incorrect. Typiquement, les champs `homeTeam` et `awayTeam` ne sont pas les noms des équipes, mais des références sur la table `teams`. Gardez ça à l'esprit lorsque vous aborderez le sujet des clés étrangères dans un cours de base de données.
 - Ce document est destiné à être intégré dans un rapport de projet. Il faudrait donc mentionner le fait que le script présenté a été généré par une IA sur la base des descriptions des champs du MLD.
 
 Votre projet est validé. Rappelez-vous surtout que le MCD s'adresse plutôt aux personnes du métier de l'application et le MLD aux personnes de l'informatique. C'est pour ça que l'un est rédigé en français et l'autre anglais. Les explications que vous avez rajoutées sont bonnes, faites la même chose à l'avenir lorsque vous aurez des projets dans lesquels il vous faut documenter un modèle de données.
+
+Il y a malgré tout, un point qui me chiffonne : votre journée de travail de la semaine passée ne contient que 105 minutes. Qu'avez-vous fait l'autre moitié du temps (110 minutes) ? Si vous avez fait un travail de valeur, c'est dommage de ne pas l'avoir reporté. Et si vous n'avez rien fait c'est problématique par rapport à votre rythme de travail.
